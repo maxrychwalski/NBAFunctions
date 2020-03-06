@@ -1,0 +1,15 @@
+Package: NBAFunctions
+Title: NBAFunctions includes three different functions.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Maximilian",
+           family = "Rychwalski",
+           role = c("aut", "cre"),
+           email = "mr3272@columbia.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Function1 filters the Average Points scored in a specific year. Function2 filters the oldest Player of a specific Year. Function3 shows a correalation matrix for all numerical columns.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+
